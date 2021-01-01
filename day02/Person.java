@@ -1,0 +1,23 @@
+package day02;
+
+public class Person {
+	String name;
+	int age;
+	
+	public Person(String name,int age){
+		this.name=name;
+		this.age=age;
+	}
+
+	@Override
+	public String toString() {
+		return "Person [name=" + name + ", age=" + age + "]";
+	}
+	
+	/**重写父类中Object的toString()方法*/
+	/*public String toString(){
+		return getClass().getName()+"["+name+","+age+"]";
+	}*/
+	
+	
+}
