@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <emp id="1">
+    <name>小闫</name>
+    <age>18</age>
+    <gender>女</gender>
+    <salary>12000.0</salary>
+  </emp>
+  <emp id="2">
+    <name>小丁</name>
+    <age>19</age>
+    <gender>女</gender>
+    <salary>12001.0</salary>
+  </emp>
+  <emp id="3">
+    <name>小张</name>
+    <age>20</age>
+    <gender>女</gender>
+    <salary>12002.0</salary>
+  </emp>
+  <emp id="4">
+    <name>小轲</name>
+    <age>21</age>
+    <gender>男</gender>
+    <salary>12003.0</salary>
+  </emp>
+  <emp id="5">
+    <name>小云</name>
+    <age>22</age>
+    <gender>男</gender>
+    <salary>12004.0</salary>
+  </emp>
+  <emp id="6">
+    <name>小强</name>
+    <age>23</age>
+    <gender>男</gender>
+    <salary>12005.0</salary>
+  </emp>
+  <emp id="7">
+    <name>小哲</name>
+    <age>24</age>
+    <gender>男</gender>
+    <salary>12006.0</salary>
+  </emp>
+</list>
